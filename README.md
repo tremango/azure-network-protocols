@@ -40,7 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/TuMcoQP" height="80%" width="80%" alt="powershell screenshot"/>
+<img src="<img width="755" alt="Screenshot 2024-12-28 at 9 42 26 PM" src="https://github.com/user-attachments/assets/eeec8cdb-f241-4483-bc0f-fc873943ef31" />
+ alt="powershell screenshot"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
