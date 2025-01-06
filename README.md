@@ -32,7 +32,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/ey8yAFs" height="80%" width="80%" alt="wireshark screenshot"/>
+<img width="755" alt="Screenshot 2024-12-28 at 9 42 26 PM" src="https://github.com/user-attachments/assets/3b8796fb-4eef-4e17-b10a-7360fb9153c6" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -40,8 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="<img width="755" alt="Screenshot 2024-12-28 at 9 42 26 PM" src="https://github.com/user-attachments/assets/eeec8cdb-f241-4483-bc0f-fc873943ef31" />
- alt="powershell screenshot"/>
+<img width="1470" alt="Screenshot 2024-12-28 at 9 46 21 PM" src="https://github.com/user-attachments/assets/afd722a8-5fcc-4b7e-8b76-fe887081fc81" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -49,7 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/mlmQWIk" height="80%" width="80%" alt="ICMP screenshot"/>
+<img width="750" alt="Screenshot 2024-12-28 at 9 47 40 PM" src="https://github.com/user-attachments/assets/be673f31-ad8e-4cd2-98a4-3132e02ff844" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -57,7 +59,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/xkBvVdl" height="80%" width="80%" alt="ping prompt"/>
+<img width="1470" alt="Screenshot 2024-12-28 at 10 02 17 PM" src="https://github.com/user-attachments/assets/d96c9de7-a4b0-4eb4-a1bd-f74672052336" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -65,7 +68,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/pUMMfU0" height="80%" width="80%" alt="ICMP in action"/>
+<img width="750" alt="Screenshot 2024-12-28 at 9 48 25 PM" src="https://github.com/user-attachments/assets/2ff02d9a-47b1-4280-b9cb-67908fac3ef5" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -73,7 +77,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/FDawgSc" height="80%" width="80%" alt="ssh filter"/>
+<img width="751" alt="Screenshot 2024-12-28 at 10 38 38 PM" src="https://github.com/user-attachments/assets/40db2c5c-a360-4770-a2db-415c571aee9a" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -81,7 +86,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/crAQicL" height="80%" width="80%" alt="ssh prompt"/>
+<img width="1470" alt="Screenshot 2024-12-28 at 10 50 32 PM" src="https://github.com/user-attachments/assets/5e6e3725-bfa1-4172-abf6-511d24c1325c" />
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -89,7 +96,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://imgur.com/hpgspS6" height="80%" width="80%" alt="dhcp in action"/>
+<img width="1470" alt="Screenshot 2025-01-02 at 9 36 48 PM" src="https://github.com/user-attachments/assets/b3820c0b-0cdb-4922-9158-b3cba640a093" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
