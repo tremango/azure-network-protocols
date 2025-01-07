@@ -54,7 +54,7 @@ To manipulate network traffic you will need to use command line prompts so you w
 
 </p>
 <p>
-Once you are setup, in Wireshark, you can filter the scan for whatever type of traffic you would like to monitor. Here i am filtering for ICMP traffic and later will filter for SSH DHCP
+Once you are setup, in Wireshark, you can filter the scan for whatever type of traffic you would like to monitor. Here i am filtering for ICMP traffic and later will repeat this filter process for SSH,DHCP,DNS,RDP traffic respectively.
 </p>
 <br />
 
@@ -63,7 +63,8 @@ Once you are setup, in Wireshark, you can filter the scan for whatever type of t
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Retrieve the private IP address of whatever other computer you are testing connectivity to and attempt to ping it from within the Windows 10 VM
+using Powershell typing in the prompt: ping (ip address) *In the above example i ping the linux VM*
 </p>
 <br />
 
