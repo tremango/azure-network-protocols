@@ -107,3 +107,36 @@ In Wireshark, filter for DHCP traffic only and Open PowerShell as admin and run:
  
 </p>
 <br />
+
+<p>
+<img width="1470" alt="Screenshot 2025-01-07 at 11 38 04 AM" src="https://github.com/user-attachments/assets/05d0cf6b-9f65-4818-b392-52b81305cef5" />
+
+
+</p>
+<p>
+In Wireshark, filter for DNS traffic only and Open PowerShell as admin and run: nslookup (url of your choice). In the my example I use disney.com *note that using this prompt gives you the ip address of the website and that can be used if youre trying to find out the website name associated with the ip address.* 
+ 
+</p>
+<br />
+
+<p>
+<img width="1470" alt="Screenshot 2025-01-07 at 11 37 41 AM" src="https://github.com/user-attachments/assets/6b8b8286-782d-405f-b522-790e498da5a0" />
+
+
+</p>
+<p>
+After obtaining the ip address  you can use it in a web browser to search up the webpage. *Due to security reasons disneys website cant be accessed this way but you can tell its disney related*
+ 
+</p>
+<br />
+
+<p>
+<img width="770" alt="Screenshot 2025-01-07 at 11 48 17 AM" src="https://github.com/user-attachments/assets/543d24ab-92d1-43e1-984a-76589d02f00a" />
+
+
+</p>
+<p>
+In Wireshark set your filter for RDP traffic only byt using "tcp.port==3389" since we are already remotely accessing the computer in a VM there is constant traffic already happening.
+ 
+</p>
+<br />
